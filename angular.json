@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "FantasticFive-FrontEnd"
+    }
+  },
+  "defaultProject": "FantasticFive-FrontEnd",
+  "cli": {
+    "analytics": "ac1db672-42a7-4522-85c8-b30febb6e936"
+  }
 }
